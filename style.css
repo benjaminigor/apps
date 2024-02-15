@@ -1,0 +1,12 @@
+body{
+    font-family: "Arial";
+}
+
+ol{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 70px
+}
+ol > li{
+    flex-basis: 250px;
+}
