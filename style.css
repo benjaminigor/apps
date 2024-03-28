@@ -20,6 +20,12 @@ ol > li{
     border: 2px solid #000;
     border-radius: 20px; /* Adjust the value to control the roundness */
     padding: 20px;
+}
+ol > li:hover{
+    flex-basis: 250px;
+    border: 2px solid #000;
+    border-radius: 20px; /* Adjust the value to control the roundness */
+    padding: 20px;
     box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.5);
 }
 .center{
