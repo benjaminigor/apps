@@ -32,6 +32,17 @@ ol > li:hover{
 .center{
     text-align: center;
 }
+.letter1{
+    color: #fff;
+    text-shadow: 
+      -1px -1px 0 #000,  
+       1px -1px 0 #000,
+      -1px  1px 0 #000,
+       1px  1px 0 #000;
+}
+.letter2{
+    color: #000;
+}
 
 li > a{
     border-radius: 1em;
